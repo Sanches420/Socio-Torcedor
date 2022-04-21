@@ -351,9 +351,6 @@ html {
     .container {
         padding: 70px 0;
     }
-    .foto-carousel{
-        height: 500px;
-    }
 
     #mainSlider .carousel-inner,
     #mainSlider .carousel-item {
