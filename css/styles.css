@@ -374,6 +374,7 @@ html {
     .carousel-caption .main-btn {
         font-size: 14px;
         margin-left: 15%;
+        height: 52px ;
     }
 
     .main-btn {
@@ -400,6 +401,7 @@ html {
     }
     .w-100 {
         width: 100%!important;
-        margin-top: 58px;
+        margin-top: 30px;
+        height: 300px;
     }
 }
