@@ -378,7 +378,8 @@ html {
     }
 
     .main-btn {
-    padding: 15px 28px;        
+    padding: 15px 28px; 
+    align-items: center;       
     }
 
     .main-title {
